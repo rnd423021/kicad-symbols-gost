@@ -1,6 +1,10 @@
 # About
 This is KiCad GOST library.
-
+1. Создать проект
+2. Создать папку `lib` в корне проекта
+3. Открыть папку с проектом в терменале и перейте в `lib`
+4. Создать подмодуль `git submodule add https://github.com/rnd423021/kicad-symbols-gost.git gost_symbols`
+  
 # Rules
 Parameter | Value / Description | Comment
 -------------- | ------------------------- | -------------
